@@ -10,6 +10,5 @@ ofxOpenCv
 ofxARtoolkitPlus
 ofxBox2d
 ofxOscforSC
-ofxSuperCollider
-ofxAssimpModelLoader
+
 

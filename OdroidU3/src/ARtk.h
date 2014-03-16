@@ -29,7 +29,7 @@ public:
 
 void setupTheCustomData(string hashtags) {
     img.loadImage("3831.png");
-//static int colors[] = {0xcae72b, 0xe63b8f, 0x2bb0e7};
+
     static int colors[] = {0x4bc3a0, 0x4025e2, 0x2bb0e7, 0x4a4dd3};
 
     vector <string> hashTags;
