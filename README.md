@@ -7,7 +7,7 @@ For a description of the project go on my web page: http://www.kalwaltart.it/hom
 From a point of view of the software and the hardware, i used one RaspberrryPi for controls two servos motors and one arcade button, and one OdroidU3 for the augmented reality application, all the visuals and sounds processing. I used Openframeworks for the visuals stuff and Supercollider for the sound processing. 
 
 Features
-========
+--------
 
 Openframeworks addons used:
 
@@ -39,7 +39,8 @@ if you want to try the sound, you need to compile the latest Supercollider from 
 
 otherwise you can't hear the sound ( at least this is needed on the OU3)
 
-This is also a work in progress, it was my thesis but, i hope, it will be performed on other places. When it is activated it send tweets to @Ecotopiaofart.
+This is also a work in progress, it was my thesis but, i hope, it will be performed on other places. When it is activated it send tweets to @Ecotopiaofart https://twitter.com/Ecotopiaofart.
+
 
 
 
