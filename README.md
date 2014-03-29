@@ -25,11 +25,12 @@ ofxBox2d
 ofxOsc
 
 OS used: RasperryPi ---> wheezy Raspbian
+
 	 OdroidU3 ----> Ubuntu 13.10
 
-The two boards (raspPi and OdoridU3) was connectted in a network, so i let you to decide how to. 
+The two boards (raspPi and OdroidU3) was connected in a network, so i let you to decide how to. 
 I installed the wiringPi lib on my RaspberryPi, because i had trouble to add some .cpp files on the ofxWiringPi addon. So remember to install it.
-if you find some part to be improved or you want to suggest some improvements e-mail me or ask in the Openframeworks forum: http://forum.openframeworks.cc/ , also if you have some issue report in github or in the OF forum.
+If you find some part to be improved or you want to suggest some improvements e-mail me or ask in the Openframeworks forum: http://forum.openframeworks.cc/ , also if you have some issue report in github or in the OF forum.
  
 OdroidU3 notes:
 
@@ -40,6 +41,13 @@ if you want to try the sound, you need to compile the latest Supercollider from 
 otherwise you can't hear the sound ( at least this is needed on the OU3)
 
 This is also a work in progress, it was my thesis but, i hope, it will be performed on other places. When it is activated it send tweets to @Ecotopiaofart https://twitter.com/Ecotopiaofart.
+
+useful links: 
+		RaspberryPi http://www.raspberrypi.org/
+	
+		OdroidU3 http://www.hardkernel.com/
+
+		
 
 
 
