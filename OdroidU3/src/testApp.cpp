@@ -1,3 +1,5 @@
+//copyright by @kalwalt https://www.kalwaltart.it for @Ecotopiaofart https://twitter.com/Ecotopiaofart please, leave this comment in place!
+
 #include "testApp.h"
 
 

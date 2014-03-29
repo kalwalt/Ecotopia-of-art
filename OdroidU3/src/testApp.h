@@ -1,3 +1,5 @@
+//copyright by @kalwalt https://www.kalwaltart.it for @Ecotopiaofart https://twitter.com/Ecotopiaofart please, leave this comment in place!
+
 #pragma once
 #include "ofMain.h"
 #include "ofxDna.h"
