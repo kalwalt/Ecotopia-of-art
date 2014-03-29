@@ -11,18 +11,18 @@ Features
 
 Openframeworks addons used:
 
-ofxThreadedImage by @armadillu (new addon i helped a bit to test)
-ofxXmlSettings 
-ofxTween by @arturoc
-ofxJSON by @bakercp
-ofxOAuth by @pelayo
-ofxTwitter by @pelayo mendez ( i helped in the development for the linux part)
-ofxDna by @s373
-ofx3DModelLoader 
-ofxOpenCv 
-ofxARtoolkitPlus 
-ofxBox2d 
-ofxOsc
+	ofxThreadedImage by @armadillu (new addon i helped a bit to test)
+	ofxXmlSettings 
+	ofxTween by @arturoc
+	ofxJSON by @bakercp
+	ofxOAuth by @pelayo
+	ofxTwitter by @pelayo mendez ( i helped in the development for the linux part)
+	ofxDna by @s373
+	ofx3DModelLoader 
+	ofxOpenCv 
+	ofxARtoolkitPlus 
+	ofxBox2d 
+	ofxOsc
 
 OS used: 
 
@@ -46,9 +46,9 @@ This is also a work in progress, it was my thesis but, i hope, it will be perfor
 
 useful links: 
 
-	RaspberryPi http://www.raspberrypi.org/
+RaspberryPi http://www.raspberrypi.org/
 	
-	OdroidU3 http://www.hardkernel.com/
+OdroidU3 http://www.hardkernel.com/
 
 		
 
