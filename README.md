@@ -24,9 +24,11 @@ ofxARtoolkitPlus
 ofxBox2d 
 ofxOsc
 
-OS used: RasperryPi ---> wheezy Raspbian
+OS used: 
 
-	 OdroidU3 ----> Ubuntu 13.10
+	RasperryPi ---> wheezy Raspbian
+
+	OdroidU3 ----> Ubuntu 13.10
 
 The two boards (raspPi and OdroidU3) was connected in a network, so i let you to decide how to. 
 I installed the wiringPi lib on my RaspberryPi, because i had trouble to add some .cpp files on the ofxWiringPi addon. So remember to install it.
@@ -43,9 +45,10 @@ otherwise you can't hear the sound ( at least this is needed on the OU3)
 This is also a work in progress, it was my thesis but, i hope, it will be performed on other places. When it is activated it send tweets to @Ecotopiaofart https://twitter.com/Ecotopiaofart.
 
 useful links: 
-		RaspberryPi http://www.raspberrypi.org/
+
+	RaspberryPi http://www.raspberrypi.org/
 	
-		OdroidU3 http://www.hardkernel.com/
+	OdroidU3 http://www.hardkernel.com/
 
 		
 
