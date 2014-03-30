@@ -4,7 +4,7 @@ Ecotopia-of-art
 Project presented at my Master thesis in sculpture with the interactive, kinetic, augmented reality work "Ecotopia of art".
 For a description of the project go on my web page: http://www.kalwaltart.it/home/en/artworks/new-media/interattivita/ecotopiaofart
 
-From a point of view of the software and the hardware, i used one RaspberrryPi for controls two servos motors and one arcade button, and one OdroidU3 for the augmented reality application, all the visuals and sounds processing. I used Openframeworks for the visuals stuff and Supercollider for the sound processing. 
+From a point of view of the software and the hardware, i used one RaspberrryPi for controls two servos motors and one arcade button, and one OdroidU3 for the augmented reality application, all the visuals and sounds processing. I used Openframeworks v.0.8 for the visuals stuff and Supercollider for the sound processing. 
 
 Features
 --------
